@@ -1,0 +1,13 @@
+**Creacion de mi proyecto**
+
+Sigue los siguentes pasos para crear el proyecto
+final, no importa en que computadora se encuentren
+
+1. crea la carpeta ProyectoFinalcarolinaalejandro, en documentos va
+   esta carpeta.
+
+2. descarga de tu repositorio el proyectofinal.py y las iagenes creadas
+
+3. realiza los cambios y las actividades de cada leccion
+
+4.sube a tu repositorio el projectofinal.py con los cambios realizados
