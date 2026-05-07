@@ -1,0 +1,6 @@
+1|pantalon mezclilla|200|Ropa
+2|camisa blanca|150|Ropa
+3|reloj|300|accesorios
+
+5|caja de chocolates|100|comida
+4|zapatos de vestir|500|Calzado
